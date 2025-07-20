@@ -1,4 +1,3 @@
 # new project
- this project was created from system
-
- created by sunil
+ this project was created from local system
+ Created by sunil
